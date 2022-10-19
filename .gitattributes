@@ -1,0 +1,2 @@
+lightpath.data filter=lfs diff=lfs merge=lfs -text
+lightpath.wasm filter=lfs diff=lfs merge=lfs -text
